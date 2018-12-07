@@ -35,3 +35,9 @@ solution<-function(target,formula){
     print(paste("You were off by:", difference))
   }
 }
+
+
+# TODO: Solver Function (see url on readme)
+rachel_riley<-function(target, drawn){}
+
+# TODO: Turn into Shiny App
